@@ -24,7 +24,7 @@ You can fetch the files using the raw GitHub URL. Available data sets:
 - Items: https://raw.githubusercontent.com/corv1njano/minecraft-data/refs/heads/main/java/items.txt
 
 ## Reporting Issues
-Found a mistake in the data? Whether it's a typo, missing entry, incorrect value, or something else – feel free to report it!
+Found a mistake in the data? Whether it's a typo, missing entry, incorrect value, or something else - feel free to report it!
 
 You can open a new issue using the [Issues](../../issues) tab.  
 Please describe the problem clearly and include the affected file, line and entry name.
