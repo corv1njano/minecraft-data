@@ -5,6 +5,7 @@ You can use this data in your own tools, mods, or scripts.
 > **Current version support**: 1.21.5 vanilla
 
 ## Available Data
+- `biomes.txt` - List of all Minecraft biomes available via **/locate biome** command.
 - `entities.txt` - List of all Minecraft entities available via **/summon** command.
 - `items.txt` – List of all Minecraft items available via **/give** command.
 
@@ -16,6 +17,7 @@ Experimental data, snapshots, April Fools content, or removed features are not i
 ## Usage
 You can fetch the files using the raw GitHub URL. Available data sets:
 
+- Biomes: https://raw.githubusercontent.com/corv1njano/minecraft-data/refs/heads/main/java/biomes.txt
 - Entities: https://raw.githubusercontent.com/corv1njano/minecraft-data/refs/heads/main/java/entities.txt
 - Items: https://raw.githubusercontent.com/corv1njano/minecraft-data/refs/heads/main/java/items.txt
 
