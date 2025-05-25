@@ -9,7 +9,9 @@ You can use this data in your own tools, mods, or scripts.
 - `items.txt` – List of all Minecraft items available via **/give** command.
 
 The data is stored in plain text format (.txt).
-All data sets are manually updated to match the latest Minecraft Java version.
+All data sets are manually updated to match the latest vanilla Minecraft Java version.
+
+Experimental data, snapshots, April Fools content, or removed features are not included unless they are part of the latest official release version.
 
 ## Usage
 You can fetch the files using the raw GitHub URL. Available data sets:
