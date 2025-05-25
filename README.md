@@ -5,7 +5,7 @@ You can use this data in your own tools, mods, or scripts.
 > **Current version support**: 1.21.5 vanilla
 
 ## Available Data
-- `items.txt` – List of all Minecraft items
+- `items.txt` – List of all Minecraft items available via /give command.
 
 The data is stored in plain text format (.txt).
 All data sets are manually updated to match the latest Minecraft Java version.
