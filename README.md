@@ -5,6 +5,7 @@ You can use this data in your own tools, mods, or scripts.
 > **Current version support**: 1.21.5 vanilla
 
 ## Available Data
+- `entities.txt` - List of all Minecraft entities available via /summon command.
 - `items.txt` – List of all Minecraft items available via /give command.
 
 The data is stored in plain text format (.txt).
@@ -13,6 +14,7 @@ All data sets are manually updated to match the latest Minecraft Java version.
 ## Usage
 You can fetch the files using the raw GitHub URL. Available data sets:
 
+- Entities: https://raw.githubusercontent.com/corv1njano/minecraft-data/refs/heads/main/java/entities.txt
 - Items: https://raw.githubusercontent.com/corv1njano/minecraft-data/refs/heads/main/java/items.txt
 
 ## License
