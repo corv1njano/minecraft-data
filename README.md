@@ -19,7 +19,7 @@ All data sets are manually updated to match the latest vanilla Minecraft Java ve
 Experimental data, snapshots, April Fools content, or removed features are not included unless they are part of the latest official release version.
 
 ## Usage
-You can fetch the files using the raw GitHub URL. Each line holds one entry.
+You can fetch the files using the raw GitHub URL. Each line holds one entry. 
 Available data sets:
 
 - Biomes: https://raw.githubusercontent.com/corv1njano/minecraft-data/refs/heads/main/java/biomes.txt
@@ -31,7 +31,7 @@ Available data sets:
 ## Reporting Issues
 Found a mistake in the data? Whether it's a typo, missing entry, incorrect value, or something else - feel free to report it!
 
-You can open a new issue using the [Issues](../../issues) tab.  
+You can open a new issue using the [Issues](../../issues) tab. 
 Please describe the problem clearly and include the affected file, line and entry name.
 
 Thanks for helping improve the project!
