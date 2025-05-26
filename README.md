@@ -19,7 +19,8 @@ All data sets are manually updated to match the latest vanilla Minecraft Java ve
 Experimental data, snapshots, April Fools content, or removed features are not included unless they are part of the latest official release version.
 
 ## Usage
-You can fetch the files using the raw GitHub URL. Each line holds one entry. Available data sets:
+You can fetch the files using the raw GitHub URL. Each line holds one entry.
+Available data sets:
 
 - Biomes: https://raw.githubusercontent.com/corv1njano/minecraft-data/refs/heads/main/java/biomes.txt
 - Effects: https://raw.githubusercontent.com/corv1njano/minecraft-data/refs/heads/main/java/effects.txt
