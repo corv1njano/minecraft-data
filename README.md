@@ -11,7 +11,7 @@ You can use this data in your own tools, mods, or scripts.
 - `entities.txt` - List of all Minecraft entities available via **/summon** command.
 - `items.txt` – List of all Minecraft items available via **/give** command.
 
-> **TODO**: blocks, enchantments, effects, structures, features, commands 
+> **TODO**: blocks, structures, features, commands 
 
 The data is stored in plain text format (.txt).
 All data sets are manually updated to match the latest vanilla Minecraft Java version.
