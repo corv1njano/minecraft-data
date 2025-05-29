@@ -1149,7 +1149,7 @@ minecraft:spider_spawn_egg
 minecraft:spire_armor_trim_smithing_template
 minecraft:splash_potion
 minecraft:sponge
-minecraft:sporce_blossom
+minecraft:spore_blossom
 minecraft:spruce_boat
 minecraft:spruce_button
 minecraft:spruce_chest_boat
