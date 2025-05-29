@@ -799,7 +799,6 @@ minecraft:name_tag
 minecraft:nautilus_shell
 minecraft:nether_brick
 minecraft:nether_brick_fence
-minecraft:nether_brick_fence_gate
 minecraft:nether_brick_slab
 minecraft:nether_brick_stairs
 minecraft:nether_brick_wall
