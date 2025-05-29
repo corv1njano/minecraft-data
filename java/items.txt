@@ -865,7 +865,7 @@ minecraft:orange_terracotta
 minecraft:orange_tulip
 minecraft:orange_wool
 minecraft:oxeye_daisy
-minecraft:oxidized_chiseld_copper
+minecraft:oxidized_chiseled_copper
 minecraft:oxidized_copper
 minecraft:oxidized_copper_bulb
 minecraft:oxidized_copper_door
