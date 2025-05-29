@@ -905,7 +905,7 @@ minecraft:peony
 minecraft:petrified_oak_slab
 minecraft:phantom_membrane
 minecraft:phantom_spawn_egg
-minecraft:pig_sawpn_egg
+minecraft:pig_spawn_egg
 minecraft:piglin_banner_pattern
 minecraft:piglin_brute_spawn_egg
 minecraft:piglin_head
