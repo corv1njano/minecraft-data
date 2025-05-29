@@ -1069,7 +1069,7 @@ minecraft:resin_clump
 minecraft:respawn_anchor
 minecraft:rib_armor_trim_smithing_template
 minecraft:rooted_dirt
-minecraft:trose_bush
+minecraft:rose_bush
 minecraft:rotten_flesh
 minecraft:saddle
 minecraft:salmon
