@@ -1260,7 +1260,7 @@ minecraft:tuff_stairs
 minecraft:tuff_wall
 minecraft:turtle_egg
 minecraft:turtle_helmet
-minecraft:turtle_scut
+minecraft:turtle_scute
 minecraft:turtle_spawn_egg
 minecraft:twisting_vines
 minecraft:vault
