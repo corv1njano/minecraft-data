@@ -1097,7 +1097,7 @@ minecraft:shears
 minecraft:sheep_spawn_egg
 minecraft:shelter_pottery_sherd
 minecraft:shield
-minecraft:short_dry_gras
+minecraft:short_dry_grass
 minecraft:short_grass
 minecraft:shroomlight
 minecraft:shulker_box
