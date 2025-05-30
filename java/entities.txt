@@ -131,7 +131,7 @@ minecraft:trident
 minecraft:tropical_fish
 minecraft:turtle
 minecraft:vex
-minecraft:villger
+minecraft:villager
 minecraft:vindicator
 minecraft:wandering_trader
 minecraft:warden
