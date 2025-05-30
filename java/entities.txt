@@ -50,6 +50,7 @@ minecraft:eye_of_ender
 minecraft:falling_block
 minecraft:fireball
 minecraft:firework_rocket
+minecraft:fishing_bobber
 minecraft:fox
 minecraft:frog
 minecraft:furnace_minecart
@@ -97,6 +98,7 @@ minecraft:pig
 minecraft:piglin
 minecraft:piglin_brute
 minecraft:pillager
+minecraft:player
 minecraft:polar_bear
 minecraft:pufferfish
 minecraft:rabbit
