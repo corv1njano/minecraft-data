@@ -9,7 +9,7 @@ These entries are **not part of the official dataset** because they are:
 This document is meant for reference only and does not reflect the current state of Minecraft gameplay or data.
 
 ## Unobtainable Items
-Some items, such as `minecraft:fire`, can no longer be obtained via **/give** and are also inaccessible through NBT editing as items. However, `minecraft:fire` is still available as a block using **/setblock**.
+Some items, such as `minecraft:fire`, can no longer be obtained via **/give** and are also inaccessible through NBT editing. However, `minecraft:fire` is still available as a block using **/setblock**.
 
 Full list of all lost/removed items :
 
