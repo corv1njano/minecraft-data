@@ -2,9 +2,9 @@
 This file contains supplemental information that is not included in the main data files. It serves as documentation for removed, unobtainable, or special entries that are relevant for historical or technical context.
 
 These entries are **not part of the official dataset** because they are:
-- no longer obtainable in the game,
-- inaccessible via commands or NBT editing,
-- experimental or unreleased (e.g. snapshots, April Fools content).
+- no longer obtainable in the game
+- inaccessible via commands or NBT editing
+- experimental or unreleased (e.g. snapshots, April Fools content)
 
 This document is meant for reference only and does not reflect the current state of Minecraft gameplay or data.
 
