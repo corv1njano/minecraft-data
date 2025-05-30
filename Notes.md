@@ -15,8 +15,8 @@ Full list of all lost/removed items :
 
 > **Note**: This list is currently in development and not updated frequently.
 
-| Item | Name | Reason |
-|------|------|--------|
+| Item | Name | Details |
+|------|------|---------|
 | minecraft:fire | Fire | No longer available as an item since version x.x.x. |
 
 ## Special Entities
