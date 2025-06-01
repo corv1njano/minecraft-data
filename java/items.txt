@@ -1080,7 +1080,7 @@ minecraft:sandstone
 minecraft:sandstone_slab
 minecraft:sandstone_stairs
 minecraft:sandstone_wall
-minecraft:scaffholding
+minecraft:scaffolding
 minecraft:scrape_pottery_sherd
 minecraft:sculk
 minecraft:sculk_catalyst
