@@ -1,6 +1,5 @@
 # Minecraft Data Repository
-This repository provides structured data for Minecraft, available via raw GitHub links.  
-You can use this data in your own tools, mods, or scripts.
+This repository provides structured data for Minecraft, available via raw GitHub links. You can use this data in your own tools, mods, or scripts. The data sets will always be up to date to the latest Minecraft version automatically.
 
 > **Current version support**: 1.21.5 vanilla
 
