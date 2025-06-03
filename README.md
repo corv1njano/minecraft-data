@@ -5,12 +5,13 @@ This repository provides structured data for Minecraft, available via raw GitHub
 
 ## Available Data
 - `biomes.txt` - List of all Minecraft biomes available via **/locate biome** command.
-- `effects.txt` - List of all Minecraft (status) effects available via **/effect give** command.
+- `blocks.txt` - List of all Minecraft blocks available via **/setblock** command.
+- `effects.txt` - List of all Minecraft (status) effects available via **/effect** command.
 - `enchantments.txt` - List of all Minecraft enchatments available via **/enchant** command.
 - `entities.txt` - List of all Minecraft entities available via **/summon** command.
 - `items.txt` – List of all Minecraft items available via **/give** command.
 
-> **TODO**: blocks, structures, features, commands 
+> **TODO**: structures, features, commands 
 
 The data is stored in plain text format (.txt).
 All data sets are manually updated to match the latest vanilla Minecraft Java version.
@@ -22,6 +23,7 @@ You can fetch the files using the raw GitHub URL. Each line holds one entry.
 Available data sets:
 
 - Biomes: https://raw.githubusercontent.com/corv1njano/minecraft-data/refs/heads/main/java/biomes.txt
+- Blocks: https://raw.githubusercontent.com/corv1njano/minecraft-data/refs/heads/main/java/blocks.txt
 - Effects: https://raw.githubusercontent.com/corv1njano/minecraft-data/refs/heads/main/java/effects.txt
 - Enchantments: https://raw.githubusercontent.com/corv1njano/minecraft-data/refs/heads/main/java/enchantments.txt
 - Entities: https://raw.githubusercontent.com/corv1njano/minecraft-data/refs/heads/main/java/entities.txt
