@@ -16,7 +16,7 @@ This repository provides structured data for Minecraft, available via raw GitHub
 The data is stored in plain text format (.txt).
 All data sets are manually updated to match the latest vanilla Minecraft Java version.
 
-Experimental data, snapshots, April Fools content, or removed features are not included unless they are part of the latest official release version.
+Experimental data, snapshots, April Fools content, or removed features are not included.
 
 ## Usage
 You can fetch the files using the raw GitHub URL. Each line holds one entry. 
