@@ -17,7 +17,7 @@ minecraft:dripstone_caves
 minecraft:end_barrens
 minecraft:end_highlands
 minecraft:end_midlands
-minecraft:eroded_forest
+minecraft:eroded_badlands
 minecraft:flower_forest
 minecraft:forest
 minecraft:frozen_ocean
